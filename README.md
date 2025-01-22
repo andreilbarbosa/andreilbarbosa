@@ -1,7 +1,8 @@
-## Hi there 👋
+## What's up! I'm Andrei. 
+# At the moment, I’m studying to become a Front-End Developer and Data Analyst. I'll share my progress and learning journey here. 
+## See you!
 
 <!--
-**andreilbarbosa/andreilbarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
