@@ -1,6 +1,6 @@
-## What's up! I'm Andrei. 
-# At the moment, I’m studying to become a Front-End Developer and Data Analyst. I'll share my progress and learning journey here. 
-## See you!
+#What's up! I'm Andrei. 
+At the moment, I’m studying to become a Front-End Developer and Data Analyst. I'll share my progress and learning journey here. 
+See you!
 
 <!--
 
