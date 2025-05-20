@@ -1,6 +1,6 @@
 ## 👨🏽‍💻 Andrei Barbosa
 
-### What's up! I'm 19 years old and currently studying to become a Front-End Developer. I'll be sharing my progress and learning journey here. See you around!
+#### What's up! I'm 19 years old and currently studying to become a Front-End Developer. I'll be sharing my progress and learning journey here. See you around!
 
 ---
 
