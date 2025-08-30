@@ -1,6 +1,6 @@
 ## 👨🏽‍💻 Andrei Barbosa
 
-#### What's up! I'm 20 years old and currently studying to become a Front-End Developer. I'll be sharing my progress and learning journey here. See you around!
+#### What's up! I'm 19 years old and currently studying to become a Front-End Developer. I'll be sharing my progress and learning journey here. See you around!
 
 ---
 
@@ -53,15 +53,6 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="34px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"
- />
-
 
 <br/><br/>
 
@@ -73,16 +64,23 @@
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="170" 
+    height="190" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=andreilbarbosa&show_icons=true&theme=transparent" 
+    src="https://github-readme-stats.vercel.app/api?username=andreilbarbosa&show_icons=true&theme=midnight-purple&include_all_commits=true&locale=en" 
   />
 
 <img 
-    align="start" 
+    align="left" 
     alt="GitHub Stats" 
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreilbarbosa&theme=transparent&layout=compact&custom_title=Technologies&langs_count=9" 
+    height="170" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreilbarbosa&theme=midnight-purple&layout=compact&custom_title=Technologies&langs_count=9" 
   />
 
+<img 
+    align="right"
+    alt="Gif Gengar"
+    width="200"
+    style="margin-right: 10px; margin-top: 10px; border-radius: 80px; object-fit: cover;"
+    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnNwejF2emMwemV4OHc2N21icHZkc3FmNjNwZWV1dXpncXFtejU0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2eHyl5MMV68oM/giphy.gif"
+/>
 </p>
