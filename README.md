@@ -75,12 +75,4 @@
     height="170" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreilbarbosa&theme=midnight-purple&layout=compact&custom_title=Technologies&langs_count=9" 
   />
-
-<img 
-    align="right"
-    alt="Gif Gengar"
-    width="200"
-    style="margin-right: 10px; margin-top: 10px; border-radius: 80px; object-fit: cover;"
-    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnNwejF2emMwemV4OHc2N21icHZkc3FmNjNwZWV1dXpncXFtejU0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2eHyl5MMV68oM/giphy.gif"
-/>
 </p>
