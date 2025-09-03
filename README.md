@@ -5,10 +5,12 @@
 ---
 
 ### 🧠Languages and Technologies
+<br/>
+
 <img 
     align="left" 
     alt="HTML"
-    title="HTML" 
+    title="Html" 
     width="34px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
@@ -16,14 +18,14 @@
 <img 
     align="left" 
     alt="CSS" 
-    title="CSS"
+    title="Css"
     width="34px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
     align="left" 
-    alt="JavaScript" 
+    alt="JAVASCRIPT" 
     title="JavaScript"
     width="34px" 
     style="padding-right: 10px;" 
@@ -31,7 +33,7 @@
 />
 <img 
     align="left" 
-    alt="Bootstrap"
+    alt="BOOTSTRAP"
     title="Bootstrap" 
     width="34px" 
     style="padding-right: 10px;" 
@@ -39,7 +41,7 @@
 />
 <img 
     align="left" 
-    alt="JQuery" 
+    alt="JQUERY" 
     title="JQuery"
     width="34px" 
     style="padding-right: 10px;" 
@@ -47,13 +49,36 @@
 />
 <img 
     align="left" 
-    alt="Git" 
+    alt="GIT" 
     title="Git"
     width="34px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="SASS" 
+    title="Sass"
+    width="34px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="LESS" 
+    title="Less"
+    width="34px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/less/less-plain-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="GULP" 
+    title="Gulp"
+    width="34px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulp/gulp-plain.svg" 
+/>
 <br/><br/>
 
 ---
