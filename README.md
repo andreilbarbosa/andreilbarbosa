@@ -91,7 +91,7 @@
     alt="GitHub Stats" 
     height="190" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=andreilbarbosa&show_icons=true&theme=midnight-purple&include_all_commits=true&locale=en" 
+    src="https://github-readme-stats.vercel.app/api?username=andreilbarbosa&show_icons=true&theme=transparent&include_all_commits=true&locale=en" 
   />
 
 <img 
