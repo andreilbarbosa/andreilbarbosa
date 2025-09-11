@@ -1,6 +1,6 @@
 ## 👨🏽‍💻 Andrei Barbosa
 
-#### What's up! I'm 19 years old and currently studying to become a Front-End Developer. I'll be sharing my progress and learning journey here. See you around!
+#### What's up! I'm 20 years old and currently studying to become a Front-End Developer. I'll be sharing my progress and learning journey here. See you around!
 
 ---
 
@@ -91,13 +91,13 @@
     alt="GitHub Stats" 
     height="190" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=andreilbarbosa&show_icons=true&theme=gruvbox&include_all_commits=true&locale=en" 
+    src="https://github-readme-stats.vercel.app/api?username=andreilbarbosa&show_icons=true&theme=midnight-purple&include_all_commits=true&locale=en" 
   />
 
 <img 
     align="left" 
     alt="GitHub Stats" 
     height="170" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreilbarbosa&theme=gruvbox&layout=compact&custom_title=Technologies&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreilbarbosa&theme=midnight-purple&layout=compact&custom_title=Technologies&langs_count=9" 
   />
 </p>
