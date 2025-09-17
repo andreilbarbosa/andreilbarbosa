@@ -101,19 +101,3 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreilbarbosa&theme=midnight-purple&layout=compact&custom_title=Technologies&langs_count=9" 
   />
 </p>
-
-<br/><br/>
-
----
-
-### Enjoy!
-
-<p>
-    <img
-        align="center" 
-        alt="Enjoy" 
-        height="170" 
-        src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Uzbno1eW5tNTk5bXYwcDRzOWJyd3pxZXo4amF4YTJvNzN5amdzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LqrhayK81RcWea3V4N/giphy.gif"
-    />    
-</p>
-
