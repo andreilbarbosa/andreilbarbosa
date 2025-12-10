@@ -9,6 +9,14 @@
 
 <img 
     align="left" 
+    alt="JAVASCRIPT" 
+    title="JavaScript"
+    width="34px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
     alt="HTML"
     title="Html" 
     width="34px" 
@@ -22,14 +30,6 @@
     width="34px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JAVASCRIPT" 
-    title="JavaScript"
-    width="34px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
     align="left" 
@@ -78,6 +78,14 @@
     width="34px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulp/gulp-plain.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript" 
+    title="TS"
+    width="34px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
 <br/><br/>
 
