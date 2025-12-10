@@ -83,21 +83,14 @@
 
 ---
 
-### 💻 Statistics
+### 💻 For now, that's it. See you later!
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="190" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=andreilbarbosa&show_icons=true&bg_color=00000000" 
-  />
-
+<br/>
 <img 
     align="left" 
-    alt="GitHub Stats" 
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreilbarbosa&theme=swift&layout=compact&custom_title=Technologies&langs_count=9" 
-  />
-</p>
+    alt="Bye!" 
+    title="Bye!"
+    width="400px" 
+    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWprNXNzNXo4bmxmZm9oZHc4bGpteGVubnB1YnQ5cDc5NHpnM2M0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ltTiN3HWmFElO/giphy.gif" 
+/>
+
