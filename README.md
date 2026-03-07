@@ -4,7 +4,7 @@
 
 ---
 
-### 🧠Languages and Technologies
+### 🧠Tech Stack
 <br/>
 
 <img 
