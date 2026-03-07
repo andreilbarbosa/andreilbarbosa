@@ -65,19 +65,19 @@
 />
 <img 
     align="left" 
-    alt="LESS" 
-    title="Less"
-    width="34px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/less/less-plain-wordmark.svg" 
-/>
-<img 
-    align="left" 
     alt="GULP" 
     title="Gulp"
     width="34px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulp/gulp-plain.svg" 
+/>
+<img 
+    align="left" 
+    alt="LESS" 
+    title="Less"
+    width="34px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" 
 />
 <img 
     align="left" 
