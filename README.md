@@ -41,14 +41,6 @@
 />
 <img 
     align="left" 
-    alt="JQUERY" 
-    title="JQuery"
-    width="34px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
     alt="GIT" 
     title="Git"
     width="34px" 
