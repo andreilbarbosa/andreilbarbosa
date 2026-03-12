@@ -6,16 +6,13 @@
     <img src="https://i.pinimg.com/originals/c5/6c/97/c56c9756a71f917b5fd1c65f3f95d198.gif" width ="80%" />
 </div>
 
-
-
 ### What's up! I'm 20 years old and currently studying to become a Front-End Developer. I'll be sharing my progress and learning journey here.
 
 ---
-<br/>
+
 <h2 align="center">
 🧠 Tech Stack 🛠
 <h2/>
-<br/>
 
 <div align="center">
     
