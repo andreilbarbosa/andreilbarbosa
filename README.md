@@ -89,11 +89,10 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
 </div>
-<br/><br/>
+<br/>
 
 ----
 
-<br/>
 <div align="center">
 
 | 🧮 | ✏ |
@@ -102,7 +101,6 @@
 
 <a href="https://git.io/streak-stats" align="end"><img src="https://github-readme-streak-stats.herokuapp.com?user=andreilbarbosa&theme=graywhite&hide_border=true&border_radius=4&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=480&card_height=190" alt="GitHub Streak" /></a>
 </div>
-<br/>
 
 ----
 <div align="center">
