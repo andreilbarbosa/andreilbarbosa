@@ -102,20 +102,21 @@
 | 🧮 | ✏ |
 |-|-|
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=andreilbarbosa&theme=graywhite) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andreilbarbosa&theme=apprentice) |
+
+<a href="https://git.io/streak-stats" align="end"><img src="https://github-readme-streak-stats.herokuapp.com?user=andreilbarbosa&theme=graywhite&hide_border=true&border_radius=4&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=480&card_height=190" alt="GitHub Streak" /></a>
 </div>
-<br/><br/>
+<br/>
 
 ----
-<div>
+<div align="center">
     <h4 align="center">💻 For now, that's it. See you later!<h4/>
     <br/>
     <img 
-        align="left" 
+        align="center" 
         alt="Bye!" 
         title="Bye!"
-        width="400px" 
+        width="32%"
         src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWprNXNzNXo4bmxmZm9oZHc4bGpteGVubnB1YnQ5cDc5NHpnM2M0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ltTiN3HWmFElO/giphy.gif" 
     />
-    
 </div>
 
