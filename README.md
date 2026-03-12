@@ -81,7 +81,18 @@
 />
 <br/><br/>
 
----
+----
+
+<br/>
+<div align="center">
+
+| 🧮 | ✏ |
+|-|-|
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=andreilbarbosa&theme=graywhite) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andreilbarbosa&theme=apprentice) |
+</div>
+<br/>
+
+----
 
 ### 💻 For now, that's it. See you later!
 
