@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    <img src="https://i.pinimg.com/originals/c5/6c/97/c56c9756a71f917b5fd1c65f3f95d198.gif" width ="80%" />
+    <img src="https://i.pinimg.com/originals/6e/6e/68/6e6e684111e55610bc5c94212e688401.gif" width ="70%" />
 </div>
 
 ### What's up! I'm 20 years old and currently studying to become a Front-End Developer. I'll be sharing my progress and learning journey here.
@@ -99,7 +99,7 @@
 |-|-|
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=andreilbarbosa&theme=graywhite) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andreilbarbosa&theme=graywhite) |
 
-<a href="https://git.io/streak-stats" align="end"><img src="https://github-readme-streak-stats.herokuapp.com?user=andreilbarbosa&theme=graywhite&hide_border=true&border_radius=4&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=480&card_height=190" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats" align="end"><img src="https://github-readme-streak-stats.herokuapp.com?user=andreilbarbosa&theme=icegray" /></a>
 </div>
 
 ----
@@ -111,7 +111,7 @@
         alt="Bye!" 
         title="Bye!"
         width="32%"
-        src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWprNXNzNXo4bmxmZm9oZHc4bGpteGVubnB1YnQ5cDc5NHpnM2M0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ltTiN3HWmFElO/giphy.gif" 
+        src="https://i.pinimg.com/736x/f9/7b/04/f97b04eb305bde84a535919cab7d34ea.jpg" 
     />
 </div>
 
