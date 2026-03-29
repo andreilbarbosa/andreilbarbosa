@@ -6,7 +6,7 @@
     <img src="https://i.pinimg.com/originals/6e/6e/68/6e6e684111e55610bc5c94212e688401.gif" width ="70%" />
 </div>
 
-### What's up! I'm 20 years old and currently studying to become a Front-End Developer. I'll be sharing my progress and learning journey here.
+### What's up! I'm 20 years old and currently studying to become a Full Stack Developer. I'll be sharing my progress and learning journey here.
 
 ---
 
