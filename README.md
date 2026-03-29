@@ -105,7 +105,6 @@
 ----
 <div align="center">
     <h4 align="center">💻 For now, that's it. See you later!<h4/>
-    <br/>
     <img 
         align="center" 
         alt="Bye!" 
