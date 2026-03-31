@@ -70,7 +70,7 @@
     title="Gulp"
     width="40px" 
     style="padding-right: 24px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulp/gulp-plain.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="center" 
